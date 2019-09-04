@@ -5,6 +5,8 @@
 def #introduction (tracey)
   "Hi, my name is #(name)"
 end
+def #introduction_with_language(tracey,language)
+  "Hi, my name is "
 
 
 
