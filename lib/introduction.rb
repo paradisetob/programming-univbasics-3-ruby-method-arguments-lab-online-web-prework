@@ -6,14 +6,7 @@ def introduction (tracey)
   "Hi, my name is #(name)"
 end
 
-def introduction_with_language(tracey,language)
-  'Hi, my name is #{Tracey}" and I am learning to program in #{language).'
-end
-
-def introduction_with_language_optional(tracey, language="Ruby")
-  'Hi, my name is #{Tracey}" and I am learning to program in #(language).'
-end
-
+Caz
 
 
 
