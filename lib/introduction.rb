@@ -9,7 +9,7 @@ end
 def introduction_with_language(Tracey,language)
   'Hi, my name is #{Tracey}" and Iam learning to program in #{language)'.
 end
-def introduction_with_language_optional(Tracey,language)
+def introduction_with_language_optional(Tracey,language='Ruby')
   "Hi, my name is #{Tracey}" and i am learning to program in #(language)'.
 end
 
