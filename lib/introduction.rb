@@ -6,7 +6,6 @@ def introduction (tracey)
   "Hi, my name is #(name)"
 end
 
-Caz
 
 
 
